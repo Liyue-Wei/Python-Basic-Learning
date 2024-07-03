@@ -41,4 +41,7 @@ print("obj1=%9.4f" % obj1)  #obj1= 114.5140
 1. 基本輸入  -->  obj = input("提示字串")
 2. 一行輸入多個str  -->  i = input().split(' ')
 3. 一行輸入多個int  -->  i = map(int, intput().split(' '))
+4. 強制轉換輸入型態  -->  obj = int(input())  
 '''
+
+obj = int(input())
