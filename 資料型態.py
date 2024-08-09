@@ -35,6 +35,7 @@ print("obj1=%9.4f" % obj1)  #obj1= 114.5140
 '''
 
 #type()函數  -->  type(obj)
+#id()函數，檢查變數記憶體位置  -->  id(obj)
 
 #input()函數
 '''
