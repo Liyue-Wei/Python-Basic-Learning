@@ -46,3 +46,4 @@ print("obj1=%9.4f" % obj1)  #obj1= 114.5140
 '''
 
 obj = int(input())
+print(id(obj))
